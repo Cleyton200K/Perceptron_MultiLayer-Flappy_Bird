@@ -9,7 +9,11 @@ Projeto realizado em python 3.7, utilizando a biblioteca PyGame e o código do j
 Basta executar Main.py
 
 Principais Modificações(Main.py):
-  Alterar tamanho da População(Variável Global POPULACAO)
-  Alterar velocidade(na função main) : FlappyBird.setVELOCIDADE(valor) ->   valor maior que 0
-  Alterar Largura da janela(na função main) : FlappyBird.setLARGURA(valor) ->   valor maior que 500
-  Alterar GAP entre os canos(na função main) : FlappyBird.setGAP(valor) ->   valor maior que 0, e menor que a Altura da Janela(550 pixels)
+
+Alterar tamanho da População(Variável Global POPULACAO)
+
+Alterar velocidade(na função main) : FlappyBird.setVELOCIDADE(valor) ->   valor maior que 0
+
+Alterar Largura da janela(na função main) : FlappyBird.setLARGURA(valor) ->   valor maior que 500
+
+Alterar GAP entre os canos(na função main) : FlappyBird.setGAP(valor) ->   valor maior que 0, e menor que a Altura da Janela(550 pixels)
