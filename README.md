@@ -1,0 +1,2 @@
+# Flappy_Bird_Perceptron_MultiLayer
+ Um experimento comum é o aprendizado de máquina no jogo Flappy Bird com algoritmos genéticos, como experimento quis testar com o próprio e somente o BackPropagation utilizando uma ideia simples, tocou o cano superior(ou voou para fora da tela) não deve pular e caso bata no cano inferior(ou no solo) deve pular. E aqui está o resultado, fique avontade para modificar :
