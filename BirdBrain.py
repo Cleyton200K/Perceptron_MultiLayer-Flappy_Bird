@@ -2,7 +2,7 @@ from RedeNeural import RedeNeural
 from Matrix import Matrix
 class BirdBrain(object):
 	"""
-	É o "cérebro" e os sentidos do pássaro
+	É o "cérebro" do pássaro
 	""" 
 	def __init__(self,inputs, ocultas, outputs, taxaDeAprendizado = 0.5):
 		self.brain = RedeNeural(inputs,ocultas, outputs, taxaDeAprendizado);
